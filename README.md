@@ -5,7 +5,7 @@ Course        : DATA245
 Group Number  : 1
 
  ## Project Overview:
- The project applies Machine Learning (ML) and Natural Language Processing (NLP) techniques to automate moral judgment classification in the r/AmItheJerk subreddit. Users in this community post narratives seeking feedback on whether their actions were justified, with responses classified using the acronyms:
+ The project applies Machine Learning (ML) and Natural Language Processing (NLP) techniques to automate moral judgment classification in the r/AmItheJerk subreddit. Users in this community post narratives seeking feedback on whether their actions were justified, with responses classified using the labels:
 
     - YTJ (Yes, The Jerk)
     - NTJ (Not, The Jerk)
@@ -51,8 +51,8 @@ Of all the other models inferred Random Forest as the best performing model with
 Youtube Video Link :https://youtu.be/aXJtnJFKUwM?si=YmOMGugPJQXzH4tg
 
 ## Contributors:
-Aiswarya Raghavadesikan
-Aafrin Shehnaz Mohamed Sulaiman
-Shivram Sriramulu
-Shreenithi Sivakumar
-Yogavarshni Ramachandran
+Aiswarya Raghavadesikan | 
+Aafrin Shehnaz Mohamed Sulaiman | 
+Shivram Sriramulu | 
+Shreenithi Sivakumar | 
+Yogavarshni Ramachandran |
