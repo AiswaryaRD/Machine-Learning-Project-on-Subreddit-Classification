@@ -42,7 +42,7 @@ Further the final dataset used for preprocessing, text classification, and model
   - Deployment: Interactive Streamlit app for real-time predictions.
 
 ## Conclusion:
-Of all the other models inferred Random Forest as the best performing model with Accuracy (72%)  and Precision (74%).
+Of all the other models inferred Random Forest and Support Vector Machines turned out to be the best performing model with Accuracy (72%)  and Precision (74%).
 
 ## Future Enhancements:
 - Accuracy improvements using Deep Learning Models using Transformers
